@@ -1,6 +1,6 @@
 # predict-solar-power-generation
 
-![predict-solar-power-generation%20f2dd130457cb4b1895a2a06897ba00f2/thumnail.png](predict-solar-power-generation%20f2dd130457cb4b1895a2a06897ba00f2/thumnail.png)
+![https://raw.githubusercontent.com/AIdward/predict-solar-power-generation/main/src/thumnail.png?token=AS2NPXDQEUL7VQEWKGMARD3ASKEWE](https://raw.githubusercontent.com/AIdward/predict-solar-power-generation/main/src/thumnail.png?token=AS2NPXDQEUL7VQEWKGMARD3ASKEWE)
 
 ## **[배경]**
 
