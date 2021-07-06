@@ -1,4 +1,4 @@
-# predict-solar-power-generation
+# Predict Solar Power Generation
 
 ![https://raw.githubusercontent.com/AIdward/predict-solar-power-generation/master/src/thumnail.png?token=AS2NPXBCRZFYPPYN5ZEVAO3ATI3JQ](https://raw.githubusercontent.com/AIdward/predict-solar-power-generation/master/src/thumnail.png?token=AS2NPXBCRZFYPPYN5ZEVAO3ATI3JQ)
 
