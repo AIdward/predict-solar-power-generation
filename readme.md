@@ -1,4 +1,4 @@
-# predict-solar-power-generation
+# Predict Solar Power Generation
 
 ![https://raw.githubusercontent.com/AIdward/predict-solar-power-generation/master/src/thumnail.png?token=AS2NPXBCRZFYPPYN5ZEVAO3ATI3JQ](https://raw.githubusercontent.com/AIdward/predict-solar-power-generation/master/src/thumnail.png?token=AS2NPXBCRZFYPPYN5ZEVAO3ATI3JQ)
 
@@ -25,13 +25,3 @@
 개인 : 학생, 직장인, 일반인 등 누구나
 
 기업 : 창업 3년 미만 스타트업
-
-## **[상금]**
-
-개인
-
-1등 - 500만원  2등 - 300만원  3등 - 200만원
-
-스타트업
-
-1등 - 500만원  2등 - 300만원  3등 - 200만원
