@@ -2,6 +2,10 @@
 
 ![https://raw.githubusercontent.com/AIdward/predict-solar-power-generation/master/src/thumnail.png?token=AS2NPXBCRZFYPPYN5ZEVAO3ATI3JQ](https://raw.githubusercontent.com/AIdward/predict-solar-power-generation/master/src/thumnail.png?token=AS2NPXBCRZFYPPYN5ZEVAO3ATI3JQ)
 
+## 분석 코드
+
+https://nbviewer.jupyter.org/github/AIdward/predict-solar-power-generation/blob/bcd7c66775b14f97ac7ca6749b4ca28c4bd7d2c4/code.ipynb
+
 ## **[배경]**
 
 태양광 발전은 매일 기상 상황과 계절에 따른 일사량의 영향을 받습니다.
@@ -25,7 +29,3 @@
 개인 : 학생, 직장인, 일반인 등 누구나
 
 기업 : 창업 3년 미만 스타트업
-
-## 분석 코드
-
-https://nbviewer.jupyter.org/github/AIdward/predict-solar-power-generation/blob/bcd7c66775b14f97ac7ca6749b4ca28c4bd7d2c4/code.ipynb
