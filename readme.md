@@ -25,3 +25,7 @@
 개인 : 학생, 직장인, 일반인 등 누구나
 
 기업 : 창업 3년 미만 스타트업
+
+## 분석 코드
+
+https://nbviewer.jupyter.org/github/AIdward/predict-solar-power-generation/blob/bcd7c66775b14f97ac7ca6749b4ca28c4bd7d2c4/code.ipynb
